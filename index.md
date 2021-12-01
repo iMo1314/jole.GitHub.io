@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to Blog
 
-You can use the [editor on GitHub](https://github.com/iMo1314/jole.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个简单的测试，测试创建一个简单的页面。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 个人介绍
+ 姓名：三岁
+ 兴趣爱好：提莫🍄
+ 
+## 提莫的直播间：
+[TiMo](https://live.bilibili.com/1314?spm_id_from=333.999.0.0)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iMo1314/jole.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```参加过的活动
+- 2019年8月23好参加第一次线下，前往重庆参加提莫首场演唱会
+- 2019年10月20第一次近距离接触TiMo，买了四本第一张专辑
+- 其他略
